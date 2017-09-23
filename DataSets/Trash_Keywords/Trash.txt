@@ -17,6 +17,7 @@ always
 am
 america
 american
+an
 and
 anurag
 are
@@ -43,10 +44,12 @@ dehradun
 do
 east
 everyone
+father
 for
 found
 girl
 goel
+got
 had
 harshal
 has
@@ -71,6 +74,8 @@ its
 jindal
 keep
 keeps
+m
+made
 mansi
 me
 measure
@@ -78,6 +83,7 @@ men
 mexico
 mexicon
 mittal
+mother
 mridul
 my
 myself
@@ -113,6 +119,7 @@ them
 then
 there
 they
+this
 time
 to
 today
@@ -137,13 +144,10 @@ whose
 will
 wind
 wind
+with
 women
 work
 you
 your
 yours
 zero
-nose
-cat
-mat
-box
