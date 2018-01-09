@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1505901185 source:/media/harshal306/My Data 1/Important files/College World/Semester 5/Minor-I/PredictingSemanticOrientation/main.c
+	<stdio.h>
+	<string.h>
+	"driver.h"
+
+1505901298 /media/harshal306/My Data 1/Important files/College World/Semester 5/Minor-I/PredictingSemanticOrientation/driver.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1504937873 source:/media/harshal306/My Data 1/Important files/College World/Semester 5/Minor-I/PredictingSemanticOrientation/SplitSentience.c
+	<stdio.h>
+	<string.h>
+
+1505236166 /media/harshal306/My Data 1/Important files/College World/Semester 5/Minor-I/PredictingSemanticOrientation/corpus.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1505915539 source:/media/harshal306/My Data 1/Important files/College World/Semester 5/Minor-I/ME/PredictingSemanticOrientation/main.c
+	<stdio.h>
+	<string.h>
+	"driver.h"
+
+1506003324 /media/harshal306/My Data 1/Important files/College World/Semester 5/Minor-I/ME/PredictingSemanticOrientation/driver.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
