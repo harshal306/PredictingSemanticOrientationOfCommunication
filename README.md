@@ -53,3 +53,5 @@ Enter some text (Post, message, comment,tweet or anything), the software predict
 ## Developers and Contributors:
 
 1. [Harshal Mittal](https://twitter.com/Harshal306)
+2. [Shubhangi Srivastava]
+3. [Mansi Sahu]
